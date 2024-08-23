@@ -1,12 +1,12 @@
-## FlexiSort Pro: Advanced Dynamic Sorting Library with Parallel Processing
+# FlexiSort Pro: Advanced Dynamic Sorting Library with Parallel Processing
 
-# Overview
+## Overview
 
 FlexiSort Pro is a highly customizable and efficient C++ sorting library designed for advanced sorting needs.
 It allows users to plug in custom comparator functions, dynamically select between various sorting algorithms, and handle special cases such as nearly sorted data or large datasets.
 The library also features parallel processing capabilities to enhance performance.
 
-# Concept
+## Concept
 
 The library provides:
 
@@ -16,11 +16,11 @@ Dynamic Algorithm Selection: Automatically chooses the most suitable sorting alg
 
 Special Case Handling: Optimized solutions for nearly sorted data and large datasets.
 
-# Why It Stands Out
+## Why It Stands Out
 
 Sorting is a fundamental operation in computer science. FlexiSort Pro stands out by offering a highly customizable, efficient sorting solution that demonstrates a deep understanding of algorithm optimization and practical application in real-world scenarios. The addition of parallel processing capabilities further enhances its performance for large datasets.
 
-# Features
+## Features
 
 Multiple Sorting Algorithms: Includes QuickSort, MergeSort, HeapSort, BubbleSort, SelectionSort, InsertionSort, and TimSort.
 
