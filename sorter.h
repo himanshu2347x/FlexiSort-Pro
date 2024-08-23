@@ -9,7 +9,6 @@ using namespace std;
 #ifndef SORTER_H
 #define SORTER_H
 
-
 template <typename T>
 class sorter
 {
@@ -357,4 +356,4 @@ private:
     }
 };
 
-#endif 
+#endif
