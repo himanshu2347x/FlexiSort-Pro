@@ -26,7 +26,7 @@ Sorting is a fundamental operation in computer science. FlexiSort Pro distinguis
 - **Multiple Sorting Algorithms**: Includes QuickSort, MergeSort, HeapSort, BubbleSort, SelectionSort, InsertionSort, and TimSort.
 - **Dynamic Algorithm Selection**: Selects the best sorting algorithm based on data inversion count, data size, and dataset nature.
 - **Custom Comparator Functions**: Sort various data types with user-defined comparison logic.
-- **Support for Custom Data Types**: Compatible with user-defined data types and structures.
+- **Support for Different Data Types**: Compatible with primitive as well as user-defined data types and structures.
 - **Parallel Sorting**: Uses multi-threading to handle large datasets efficiently.
 
 ## How to Use This Library
